@@ -92,12 +92,14 @@ C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.csproj.CoreComp
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.RazorAssemblyInfo.cache
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.RazorAssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.sourcelink.json
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\scopedcss\bundle\web.net.styles.css
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\scopedcss\projectbundle\web.net.bundle.scp.css
+C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\compressed\9tz6wxk6tx-{0}-jag73lzx05-jag73lzx05.gz
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\compressed\xvu9hg7loj-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\compressed\l4yo3dg44w-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\compressed\da3c2ig1f2-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -172,4 +174,3 @@ C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\refint\web.net.dll
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.pdb
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\web.net.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\ref\web.net.dll
-C:\Users\Dell\OneDrive\Desktop\web.net\obj\Debug\net10.0\compressed\9tz6wxk6tx-{0}-jag73lzx05-jag73lzx05.gz
